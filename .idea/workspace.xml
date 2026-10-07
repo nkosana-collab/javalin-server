@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="08d8184b-4ab1-4363-87b1-20824321cad8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/prince/WebServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/prince/WebServer.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="08d8184b-4ab1-4363-87b1-20824321cad8" name="Changes" comment="" />
+>>>>>>> 58661c4 (Update WebServer.java)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
